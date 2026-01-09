@@ -16,7 +16,7 @@ Script de Sin Rol Staff que permite:
 Python recomendado: **3.11.5**
 
 ## Contacto / Comunidad
-- Dev (negocios): **@ErzScarlet**
+- Dev (negocios): **@ErzScarlet** (Darwin R)
 - Canal: https://t.me/SinRolAlguno
 - Grupo: https://t.me/SinRolChat
 
@@ -42,4 +42,5 @@ Python recomendado: **3.11.5**
 ```bash
 py -3.11 -m venv venv
 venv\Scripts\activate
+
 
