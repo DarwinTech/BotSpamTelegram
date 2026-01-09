@@ -1,4 +1,4 @@
-#DEV BY TELEGRAM: @ErzScarlet
+#DEV BY TELEGRAM: @ErzScarlet (Darwin R)
 
 import sqlite3
 import asyncio
@@ -156,5 +156,6 @@ async def main():
 
     asyncio.create_task(auto_sender())
     await client.run_until_disconnected()
+
 
 asyncio.run(main())
