@@ -2,6 +2,7 @@
 
 Script de Sin Rol Staff que permite:
 - Guardar un mensaje (respondiéndolo con `/send`)
+- Uso /add -1001234567890 #Para agregar un chat a la lista de envios
 - Reenviarlo automáticamente a una lista de grupos/canales guardados
 - Eliminar el mensaje anterior reenviado en cada chat (para que siempre quede el último)
 
@@ -41,3 +42,4 @@ Python recomendado: **3.11.5**
 ```bash
 py -3.11 -m venv venv
 venv\Scripts\activate
+
